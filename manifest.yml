@@ -1,0 +1,8 @@
+applications:
+- domain: mybluemix.net
+  host: election-mubc
+  instances: 1
+  memory: 256M
+  name: electiondapp
+domain: mybluemix.net
+host: election-mubc
