@@ -31,9 +31,6 @@
     "web3": "^0.20.5",
     "webpack": "^4.29.6",
     "webpack-cli": "^2.0.9",
-    "webpack-dev-server": "^3.2.1",
-    "truffle-hdwallet-provider": "^1.0.4",
-    "truffle-core": "^5.0.6",
-    "dotenv": "^6.2.0"
-  }
+    "webpack-dev-server": "^3.2.1"
+    }
 }
