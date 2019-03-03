@@ -20,7 +20,7 @@ class App extends React.Component {
     if (typeof web3 != 'undefined') {
       this.web3Provider = web3.currentProvider
     } else {
-      this.web3Provider = new Web3.providers.HttpProvider('http://localhost:7545')
+      this.web3Provider = new Web3.providers.HttpProvider('http://localhost:8545')
     }
 
     this.web3 = new Web3(this.web3Provider)
