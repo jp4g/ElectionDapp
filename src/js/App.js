@@ -80,7 +80,7 @@ class App extends React.Component {
     return (
       <div class='row'>
         <div class='col-lg-12 text-center' >
-          <h1>Election Results</h1>
+          <h1>MUBC Ethereum Workshop 3: Election dApp</h1>
           <br/>
           { this.state.loading || this.state.voting
             ? <p class='text-center'>Loading...</p>
